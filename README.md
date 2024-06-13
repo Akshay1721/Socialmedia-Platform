@@ -38,7 +38,7 @@ Change to Project Directory
 1. Switch to Client side project directory
 
 ```bash
-  cd Client
+  cd client
 ```
 Install Dependencies
 
@@ -55,7 +55,7 @@ Start Angular App
 2. Switch to Server side project directory
 ```
 cd ..
-cd Server
+cd server
 ```
 
 Install Dependencies
